@@ -1,0 +1,6 @@
+id=cloudflared4android
+name=cloudflared4Android
+version=v1.0.1
+versionCode=34
+author=demon
+description=Cloudflared DNS-Over-HTTPS
